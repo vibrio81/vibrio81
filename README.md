@@ -1,4 +1,4 @@
-![banner](images/banner.png)
+![banner](images/bannerAlign.png)
 
 ### Hi there 👋
 
